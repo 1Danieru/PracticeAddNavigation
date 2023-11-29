@@ -1,7 +1,7 @@
-<h1 align="center"> Practice: Bus Schedule </h1>
+<h1 align="center"> Practice: Add navigation </h1>
 
 <p align="center">
-  <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-6-pathway-2">Practice: Bus Schedule</a>
+  <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2">Practice: Add navigation</a>
 </p>
 
 <p align="center">
